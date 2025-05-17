@@ -3,7 +3,7 @@ Pixel Quest is an open-source, beginner-friendly project where you can learn cod
 
 # Overview
 
-Pixel Quest is a pixel-art multiplayer adventure game — but more importantly, it's a collaborative, open-source project designed to help beginners learn to code by building something fun together!
+Pixel Quest is a pixel-art multiplayer adventure game, but more importantly, it's a collaborative, open-source project designed to help beginners learn to code by building something fun together!
 
 ## Project Goals
 
@@ -23,5 +23,5 @@ Pixel Quest is a pixel-art multiplayer adventure game — but more importantly, 
 - Socket.io for real-time communication
 
 ## Inspiration
-Retro pixel RPGs like *Stardew Valley*, *Celeste*, and *Terraria* — and the joy of learning by doing!
+Retro pixel RPGs like Stardew Valley, Celeste, and Terraria and the joy of learning by doing!
 
